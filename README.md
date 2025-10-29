@@ -4,7 +4,7 @@ A responsive and modern personal portfolio website showcasing my skills, experie
 
 ## 🚀 Live Demo
 
-[View Live Website](https://alexcoyne2.github.io/webdesign final draf 1.2.html) 
+[View Live Website](https://alexcoyne2.github.io/portfolio) 
 
 ## 📋 Project Description
 
